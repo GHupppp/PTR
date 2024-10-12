@@ -1,0 +1,8 @@
+mistralai
+numpy
+openai
+torch
+tqdm
+rank_bm25
+sentence_transformers
+faiss-gpu
