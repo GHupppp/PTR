@@ -9,4 +9,4 @@ By augmenting Large Language Models (LLMs) with external tools, their capacity t
 ## Usage
 **pip install -r requirments.txt**
 
-**Be prepared with your own openai api key and mistral api key**
+**Be prepared with your own api key**
